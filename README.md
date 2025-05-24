@@ -103,6 +103,13 @@ This shows that the use clicked the incorrect answer and the app provided feedba
 ![Screen 4 ss3](https://github.com/user-attachments/assets/858b1e0d-c970-4a6b-8ede-05fade0188ae)
 
 
+This shows that the use clicked the correct answer and the app provided feedback that the answer is correct.
+
+
+
+
+
+
 
 
 
