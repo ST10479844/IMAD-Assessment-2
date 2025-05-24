@@ -145,7 +145,7 @@ This shows that the use clicked the incorrect answer and the app provided feedba
 ![Review page ss1](https://github.com/user-attachments/assets/287e3fd8-c3ec-42da-9ba9-bdfd34b00a17)
 
 
-The last screenshot shows the review text, score text, review button and exit button.
+The last screenshot shows the review page with the feedback text, score text, review button and exit button. The score text displays your score and the feedback text gives you feedback based on that score. The review button navigates back to the start of the app for you to go through the quiz again and the exit button closes the entire app. 
 
 
 
