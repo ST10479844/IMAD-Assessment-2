@@ -124,6 +124,33 @@ This shows that the use clicked the correct answer and the app provided feedback
 This shows that the use clicked the incorrect answer and the app provided feedback that the answer is incorrect.
 
 
+![Screen 6 ss1](https://github.com/user-attachments/assets/2f7d4866-5863-4f4b-9a8c-685323cf92ae)
+
+
+This shows the fifth question of the app with no feedback.
+
+
+![Screen 6 ss2](https://github.com/user-attachments/assets/b398e4d3-4ff9-4f16-a32c-55555c4295bc)
+
+
+This shows that the use clicked the correct answer and the app provided feedback that the answer is correct.
+
+
+![Screen 6 ss3](https://github.com/user-attachments/assets/ad000f72-b480-4d22-b5f1-1eb7d87b761c)
+
+
+This shows that the use clicked the incorrect answer and the app provided feedback that the answer is incorrect.
+
+
+![Review page ss1](https://github.com/user-attachments/assets/287e3fd8-c3ec-42da-9ba9-bdfd34b00a17)
+
+
+The last screenshot shows the review text, score text, review button and exit button.
+
+
+
+
+
 
 
 
