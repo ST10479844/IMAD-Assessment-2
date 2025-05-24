@@ -106,6 +106,34 @@ This shows that the use clicked the incorrect answer and the app provided feedba
 This shows that the use clicked the correct answer and the app provided feedback that the answer is correct.
 
 
+![Screen 5 ss1](https://github.com/user-attachments/assets/79efde8d-4e52-4031-a335-e2d05776dae2)
+
+
+This shows the fourth question of the app with no feedback.
+
+
+![Screen 5 ss2](https://github.com/user-attachments/assets/a2665980-6818-4edb-bd45-484285f87996)
+
+
+This shows that the use clicked the correct answer and the app provided feedback that the answer is correct.
+
+
+![Screen 5 ss3](https://github.com/user-attachments/assets/f3f08e93-848b-499d-9f24-a4b35a47bc22)
+
+
+This shows that the use clicked the incorrect answer and the app provided feedback that the answer is incorrect.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
