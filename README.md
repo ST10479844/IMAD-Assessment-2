@@ -1,1 +1,2 @@
 I have created a native Kotlin app in android studio that helps students study history with the use of flashcards. The app itself consists of 7 screens, 5 screen with a question on each, 1 welcome screen and 1 Review screen. Each of the 5 screens has 2 textviews and 3 buttons. The textviews are the question texts and feedback texts while the 3 buttons are true, false and next buttons. 
+Here are some screenshots of what the designer screens of my app looks like:
